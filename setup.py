@@ -9,17 +9,17 @@ from distutils.core import setup
 import setuptools
 
 setup(
-    name='noise_label',
-    packages=['noise_label'],
+    name='Dynamic Embeddings',
+    packages=['dyn-bae'],
     version='0.0.0',
-    description='Implementation of the Noise Label Approach.',
+    description='Dynamic Embeddings via Dynamic Skip-gram',
     author='Carlos Ortega Vazquez',
     author_email='carlos.ortegavazq@gmail.com',
     license='MIT',
-    url='https://github.com/CarlosOrtegaV/noise_label',
+    url='https://github.com/CarlosOrtegaV/dyn-bae',
     install_requires=[
         '',
         ''
     ],
-    keywords=['semisupervised learning', 'noise label'],
+    keywords=['Representation Learning', 'Dynamic Embedding'],
 )

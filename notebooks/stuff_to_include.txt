@@ -1,0 +1,6 @@
+#### DESCRIPTIVE STATISTICS #####
+
+
+
+# Calculate statistics for the whole graph
+desc_graph(G_fb)
